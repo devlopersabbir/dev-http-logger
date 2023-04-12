@@ -7,7 +7,6 @@
 ```console
 $ npm i dev-http-logger --save-dev
 ```
-<<<<<<< HEAD
 
 ```console
 $ npm install dev-http-logger --save-dev
@@ -19,15 +18,6 @@ or
 $ yarn add dev-http-logger --save-dev
 ```
 
-=======
-```console
-$ npm install dev-http-logger --save-dev
-```
-or
-```console
-$ yarn add dev-http-logger --save-dev
-```
->>>>>>> origin
 ```console
 $ yarn add dev-http-logger --save
 ```
