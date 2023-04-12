@@ -4,11 +4,19 @@
 
 #### INSTALLATION
 
-```npm i dev-http-logger --save-dev```
-```npm install dev-http-logger --save-dev```
+```console
+npm i dev-http-logger --save-dev
+```
+```console
+npm install dev-http-logger --save-dev
+```
 or
-```yarn add dev-http-logger --save-dev```
-```yarn add dev-http-logger --save```
+```console
+yarn add dev-http-logger --save-dev
+```
+```console
+yarn add dev-http-logger --save
+```
 
 #### ABOUT THE PACKAGE
 
