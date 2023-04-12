@@ -1,3 +1,6 @@
+#first line
+node_modules/
 node_modules
+/node_modules
 /lib
 package-lock.json
