@@ -5,17 +5,17 @@
 #### INSTALLATION
 
 ```console
-npm i dev-http-logger --save-dev
+$ npm i dev-http-logger --save-dev
 ```
 ```console
-npm install dev-http-logger --save-dev
+$ npm install dev-http-logger --save-dev
 ```
 or
 ```console
-yarn add dev-http-logger --save-dev
+$ yarn add dev-http-logger --save-dev
 ```
 ```console
-yarn add dev-http-logger --save
+$ yarn add dev-http-logger --save
 ```
 
 #### ABOUT THE PACKAGE
