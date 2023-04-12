@@ -1,7 +1,7 @@
 {
   "name": "dev-http-logger",
   "version": "1.0.0",
-  "main": "lib/main.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
