@@ -1,4 +1,18 @@
+███████╗██╗  ██╗███████╗██╗     ██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+  ██╔════╝██║  ██║██╔════╝██║     ██║     ██╔═══██╗██╔══██╗████╗ ████║██╔════╝
+  █████╗  ███████║█████╗  ██║     ██║     ██║   ██║██████╔╝██╔████╔██║█████╗  
+  ██╔══╝  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║██╔══██╗██║╚██╔╝██║██╔══╝  
+  ██║     ██║  ██║███████╗███████╗███████╗╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+
 # dev-http-logger
+A Powerful HTTP Request Logging Middleware for Node.js
+
+  [![npm](https://img.shields.io/npm/v/dev-http-logger?style=flat-square&logo=npm)](https://www.npmjs.com/package/dev-http-logger)
+  [![npm](https://img.shields.io/npm/l/dev-http-logger?style=flat-square&logo=npm)](https://github.com/devlopersabbir/dev-http-logger/blob/main/LICENSE)
+  [![GitHub issues](https://img.shields.io/github/issues/devlopersabbir/dev-http-logger?style=flat-square&logo=github)](https://github.com/devlopersabbir/dev-http-logger/issues)
+  [![GitHub stars](https://img.shields.io/github/stars/devlopersabbir/dev-http-logger?style=flat-square&logo=github)](https://github.com/devlopersabbir/dev-http-logger/stargazers)
+  [![npm](https://img.shields.io/npm/dt/dev-http-logger?style=flat-square&logo=npm)](https://www.npmjs.com/package/dev-http-logger)
 
 [https://github.com/devlopersabbir/dev-http-logger](https://github.com/devlopersabbir/dev-http-logger)
 
