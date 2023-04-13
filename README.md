@@ -33,19 +33,19 @@ A simple logging library that combines the simple [ExpressJs](https://expressjs.
 #### USAGES
 
 ```ts
-import { Logger } from "dev-http-logger";
+import logger from "dev-http-logger";
 // middleware
-app.use(Logger());
+app.use(logger());
 ```
 
-We can able to pass so many object as `Logger()` agument.
+We can able to pass so many thing as `logger()` agument.
 For example:
 
 ```ts
-import { Logger } from "dev-http-logger";
+import logger from "dev-http-logger";
 // pass an object
 app.use(
-  Logger({
+  logger({
     origin: true,
     showHeader: true,
     purpose: "DEV",
@@ -58,11 +58,11 @@ In the below section have a full example how you can use this `logger` in your e
 
 ```ts
 import express from "express";
-import { Logger } from "dev-http-logger";
+import logger from "dev-http-logger";
 
 const app = express();
 app.use(
-  Logger({
+  logger({
     origin: true,
     showHeader: true,
     purpose: "DEV",

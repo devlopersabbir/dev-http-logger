@@ -1,5 +1,9 @@
-export interface LogListenOptions {
+import EPurpose from "../enums/enums";
+
+interface LogListenOptions {
   origin?: boolean;
-  purpose?: string;
+  purpose?: EPurpose;
   showHeader?: boolean;
 }
+
+export default LogListenOptions;
