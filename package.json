@@ -1,6 +1,6 @@
 {
   "name": "dev-http-logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple logging library that combines the simple ExpressJs and NodeJs to loggin our all HTTP request and response.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
