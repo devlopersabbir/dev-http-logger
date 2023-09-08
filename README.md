@@ -77,7 +77,7 @@ app.listen(5000, () => console.log(`🚀 Server is running...`));
 
 #### Author
 
-This package created by [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
+This package was created by [Sabbir Hossain Shuvo](https://www.showwcase.com/devlopersabbir). And the GitHub profile is [https://github.com/devlopersabbir](https://github.com/devlopersabbir).
 
 #### LICENSE
 
@@ -85,3 +85,11 @@ MIT
 
 For support just [Buy Me A Coffee](https://www.buymeacoffee.com/devlopersabbir)
 [https://www.buymeacoffee.com/devlopersabbir](https://www.buymeacoffee.com/devlopersabbir)
+
+## Contributing
+Since this package is fully open-source so, if you would like to contribute to this project, please follow these steps:
+1. Fork this repository.
+2. Clone your forked repository:
+3. For your changes:
+4. Make your changes, commit them, and push them to your forked repository:
+5. Create a pull request on this repository.
