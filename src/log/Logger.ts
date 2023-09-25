@@ -10,6 +10,7 @@ class Log {
   private origin?: boolean;
   private showHeader?: boolean;
   private purpose?: EPurpose;
+
   constructor(private options?: LogListenOptions) {
     this.origin = options?.origin;
     this.showHeader = options?.showHeader;
